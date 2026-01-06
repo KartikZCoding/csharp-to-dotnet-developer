@@ -3,7 +3,7 @@
 Hello 👋  
 I’m **Kartik Ahir**, a Computer Engineering student and an aspiring **.NET Developer**.
 
-This repository represents my **complete learning journey** — starting from **C# basics**, moving through **intermediate concepts**, building **console-based projects**, and progressing towards **ASP.NET Core development**.
+This repository represents my **complete learning journey** — starting from **C# basics**, applying concepts through **console-based projects**, moving into **intermediate concepts**, and progressing towards **ASP.NET Core development**.
 
 My focus is on building a **strong foundation in C#**, understanding **OOP deeply**, and following a **clean, structured, industry-oriented learning path**.
 
@@ -29,7 +29,6 @@ This repository acts as a **central menu (index)** to easily navigate all my lea
 This repository covers **core C# fundamentals** and builds the base required for .NET development.
 
 **Topics Covered:**
-
 1. Basics  
 2. Conditions & Loops  
 3. Strings  
@@ -43,34 +42,47 @@ This repository covers **core C# fundamentals** and builds the base required for
 
 ---
 
-### 🛠️ First Console Project — Student Management System
+### 🛠️ Console Project 1 — Student Management System
 
-After completing C# basics, I built my **first structured console-based project** to apply the learned concepts in a real-world manner.
+After completing C# basics, I built my **first structured console application** to apply fundamental concepts in a real-world manner.
 
-**Project Highlights:**
-- Menu-driven console application  
-- Add, View, Search, and Delete student records  
-- Uses **OOP**, **collections**, and **separation of concerns**  
-- Clean folder structure (Models, Services, Data)  
+**Short Explanation:**  
+A menu-driven system to **add, view, search, and delete student records**, designed using OOP principles and clean separation of concerns.
 
-**Concepts Applied:**
+**Key Concepts Used:**
 - Classes & Objects  
 - Encapsulation  
-- `List<T>` collections  
-- User input handling  
-- Basic validation and flow control  
+- Collections (`List<T>`)  
+- Menu-driven logic  
 
 👉 Project Repository Link:  
-🔗 **[Student Management System](https://github.com/KartikZCoding/csharp-student-management-system-console/tree/bf56619615b6f89c88c39a53011b23f98ca7bf5d)**
+🔗 **[Student Management System](https://github.com/KartikZCoding/student-management-system)**
+
+---
+
+### 🛠️ Console Project 2 — Markdown File Management System *(Internship Task)*
+
+This project was developed as part of my **internship**, focusing on **organizing and navigating learning content** through a console-based menu system.
+
+**Short Explanation:**  
+A menu-driven application that manages and displays C# topics by separating **menus (navigation)**, **topics (content)**, and **helpers (formatting)** — similar to how Markdown documentation is structured.
+
+**Key Concepts Used:**
+- Menu-based navigation  
+- Separation of Concerns  
+- Static classes & methods  
+- Reusable helper utilities  
+
+👉 Project Repository Link:  
+🔗 **[Markdown File Management System](https://github.com/KartikZCoding/csharp-markdown-file-management-system-console/tree/a5781365866dbc61137269be9008a43e8ccaaa9d)**
 
 ---
 
 ### 📗 C# Intermediate
 
-This repository focuses on **intermediate C# concepts** used in real-world applications and .NET development.
+This repository focuses on **intermediate C# concepts** required for real-world and enterprise-level .NET development.
 
 **Topics Covered:**
-
 1. Enums  
 2. Static classes and members  
 3. Namespaces  
@@ -82,7 +94,7 @@ This repository focuses on **intermediate C# concepts** used in real-world appli
 9. File I/O  
 10. DateTime  
 
-These topics strengthen **design thinking, code organization, and scalability**.
+These topics strengthen **design thinking, scalability, and clean architecture**.
 
 👉 Repository Link:  
 🔗 **[C# Intermediate Repository](https://github.com/KartikZCoding/csharp-intermediate/blob/746e691dc0916120eb3ac69c134bef873bd89b67/README.md)**
