@@ -39,7 +39,7 @@ This repository covers **core C# fundamentals** and builds the base required for
 7. Object-Oriented Programming (OOP)
 
 👉 Repository Link:  
-🔗 **[C# Basics Repository](LINK_HERE)**
+🔗 **[C# Basics Repository](https://github.com/KartikZCoding/csharp-basics/blob/9bee8fba024cb7053578cb7b707837dc12880f14/README.md)**
 
 ---
 
