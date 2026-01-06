@@ -3,7 +3,7 @@
 Hello 👋  
 I’m **Kartik Ahir**, a Computer Engineering student and an aspiring **.NET Developer**.
 
-This repository represents my **complete learning journey** — starting from **C# basics**, moving through **intermediate and advanced concepts**, building **console-based projects**, and progressing towards **ASP.NET Core development**.
+This repository represents my **complete learning journey** — starting from **C# basics**, moving through **intermediate concepts**, building **console-based projects**, and progressing towards **ASP.NET Core development**.
 
 My focus is on building a **strong foundation in C#**, understanding **OOP deeply**, and following a **clean, structured, industry-oriented learning path**.
 
@@ -30,35 +30,57 @@ This repository covers **core C# fundamentals** and builds the base required for
 
 **Topics Covered:**
 
-1. Basics
-2. Conditions & Loops
-3. Strings
-4. Arrays & Collections
-5. Functions
-6. Exception Handling
-7. Object-Oriented Programming (OOP)
+1. Basics  
+2. Conditions & Loops  
+3. Strings  
+4. Arrays & Collections  
+5. Functions  
+6. Exception Handling  
+7. Object-Oriented Programming (OOP)  
 
 👉 Repository Link:  
 🔗 **[C# Basics Repository](https://github.com/KartikZCoding/csharp-basics/blob/9bee8fba024cb7053578cb7b707837dc12880f14/README.md)**
 
 ---
 
+### 🛠️ First Console Project — Student Management System
+
+After completing C# basics, I built my **first structured console-based project** to apply the learned concepts in a real-world manner.
+
+**Project Highlights:**
+- Menu-driven console application  
+- Add, View, Search, and Delete student records  
+- Uses **OOP**, **collections**, and **separation of concerns**  
+- Clean folder structure (Models, Services, Data)  
+
+**Concepts Applied:**
+- Classes & Objects  
+- Encapsulation  
+- `List<T>` collections  
+- User input handling  
+- Basic validation and flow control  
+
+👉 Project Repository Link:  
+🔗 **[Student Management System](https://github.com/KartikZCoding/csharp-student-management-system-console/tree/bf56619615b6f89c88c39a53011b23f98ca7bf5d)**
+
+---
+
 ### 📗 C# Intermediate
 
-This repository focuses on **intermediate and advanced C# concepts** used in real-world applications.
+This repository focuses on **intermediate C# concepts** used in real-world applications and .NET development.
 
 **Topics Covered:**
 
-1. Enums
-2. Static classes and members
-3. Namespaces
-4. Access modifiers
-5. Inheritance
-6. Polymorphism
-7. Abstract classes
-8. Interfaces
-9. File I/O
-10. DateTime
+1. Enums  
+2. Static classes and members  
+3. Namespaces  
+4. Access modifiers  
+5. Inheritance  
+6. Polymorphism  
+7. Abstract classes  
+8. Interfaces  
+9. File I/O  
+10. DateTime  
 
 These topics strengthen **design thinking, code organization, and scalability**.
 
@@ -71,11 +93,11 @@ These topics strengthen **design thinking, code organization, and scalability**.
 
 My learning approach is **structured and consistent**:
 
-1. Learn concepts step by step
-2. Document learning in **Markdown files**
-3. Practice using small programs
-4. Apply knowledge in **console projects**
-5. Upload regularly to GitHub with clean commits
+1. Learn concepts step by step  
+2. Document learning in **Markdown files**  
+3. Practice using small programs  
+4. Apply knowledge in **console projects**  
+5. Upload regularly to GitHub with clean commits  
 
 This helps me build **clarity, confidence, and job-ready skills**.
 
@@ -83,10 +105,10 @@ This helps me build **clarity, confidence, and job-ready skills**.
 
 ## 🤝 About Me
 
-- 🎓 Computer Engineering Student
-- 💻 Aspiring .NET Developer
-- 🧠 Strong interest in backend & structured development
-- 📍 India
+- 🎓 Computer Engineering Student  
+- 💻 Aspiring .NET Developer  
+- 🧠 Strong interest in backend & structured development  
+- 📍 India  
 
 ---
 
