@@ -63,7 +63,7 @@ This repository focuses on **intermediate and advanced C# concepts** used in rea
 These topics strengthen **design thinking, code organization, and scalability**.
 
 👉 Repository Link:  
-🔗 **[C# Intermediate Repository](LINK_HERE)**
+🔗 **[C# Intermediate Repository](https://github.com/KartikZCoding/csharp-intermediate/blob/746e691dc0916120eb3ac69c134bef873bd89b67/README.md)**
 
 ---
 
