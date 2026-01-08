@@ -121,7 +121,7 @@ This repository focuses on **advanced C# concepts** required for high-performanc
 These topics strengthen **performance optimization, concurrency, and enterprise-grade application architecture**.
 
 👉 Repository Link:  
-🔗 **[C# Intermediate Repository](https://github.com/KartikZCoding/csharp-advance/blob/cae33a68e601f3a78463971da26d470f121cd6f9/README.md)**
+🔗 **[C# Advance Repository](https://github.com/KartikZCoding/csharp-advance/blob/cae33a68e601f3a78463971da26d470f121cd6f9/README.md)**
 
 ---
 ## 📚 How I Learn
