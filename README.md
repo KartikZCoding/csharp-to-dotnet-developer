@@ -100,6 +100,30 @@ These topics strengthen **design thinking, scalability, and clean architecture**
 🔗 **[C# Intermediate Repository](https://github.com/KartikZCoding/csharp-intermediate/blob/746e691dc0916120eb3ac69c134bef873bd89b67/README.md)**
 
 ---
+### 📕 C# Advanced
+
+This repository focuses on **advanced C# concepts** required for high-performance and enterprise-level .NET development.
+
+**Topics Covered:**
+1. Generics – Type-safe collections and methods
+2. Collections (Advanced) – Stack, Queue, HashSet, SortedList
+3. Delegates – Method references
+4. Events – Publisher-subscriber pattern
+5. Lambda expressions – Anonymous functions
+6. LINQ – Language Integrated Query
+7. Extension methods – Adding methods to existing types
+8. Nullable types – Handling null values
+9. Async / Await – Asynchronous programming
+10. Multithreading – Parallel execution
+11. Attributes – Metadata for code
+12. Reflection – Inspecting code at runtime
+
+These topics strengthen **performance optimization, concurrency, and enterprise-grade application architecture**.
+
+👉 Repository Link:
+🔗 **[C# Advanced Repository]([https://github.com/KartikZCoding/csharp-advanced](https://github.com/KartikZCoding/csharp-advance/blob/cae33a68e601f3a78463971da26d470f121cd6f9/README.md))**
+
+---
 
 ## 📚 How I Learn
 
