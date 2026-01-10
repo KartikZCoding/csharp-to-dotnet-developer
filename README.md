@@ -124,6 +124,23 @@ These topics strengthen **performance optimization, concurrency, and enterprise-
 🔗 **[C# Advance Repository](https://github.com/KartikZCoding/csharp-advance/blob/cae33a68e601f3a78463971da26d470f121cd6f9/README.md)**
 
 ---
+### 🚴‍♂️ Cycling Club – Club Membership Application
+
+This repository contains a **.NET console-based membership system** demonstrating real-world application structure, validation, and data persistence using modern C# and Entity Framework Core.
+
+**Key Highlights:**
+- User registration and login with validation
+- Delegate-based field validation architecture
+- Entity Framework Core with SQLite database
+- Clean separation of UI, validation, and data layers
+- Factory pattern for composing views and services
+
+This project strengthens **practical .NET development, layered architecture, and real-world coding practices**.
+
+👉 Repository Link:
+🔗 **[Cycling Club – ClubMembershipApplication](https://github.com/KartikZCoding/csharp-registration-login-console-application)**
+
+---
 ## 📚 How I Learn
 
 My learning approach is **structured and consistent**:
