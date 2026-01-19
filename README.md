@@ -56,7 +56,7 @@ A menu-driven system to **add, view, search, and delete student records**, desig
 - Menu-driven logic  
 
 👉 Project Repository Link:  
-🔗 **[Student Management System](https://github.com/KartikZCoding/student-management-system)**
+🔗 **[Student Management System](https://github.com/KartikZCoding/csharp-student-management-system-console)**
 
 ---
 
