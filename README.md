@@ -107,7 +107,7 @@ This repository focuses on **advanced C# concepts** required for high-performanc
 **Topics Covered:**
 1. Generics – Type-safe collections and methods
 2. Collections (Advanced) – Stack, Queue, HashSet, SortedList
-3. Delegates – Method references
+3. Delegates – Method references ([Delegate Repository](https://github.com/KartikZCoding/csharp-delegate-callback-varience-func-action-predecate))
 4. Events – Publisher-subscriber pattern
 5. Lambda expressions – Anonymous functions
 6. LINQ – Language Integrated Query
