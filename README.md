@@ -113,7 +113,7 @@ This repository focuses on **advanced C# concepts** required for high-performanc
 6. LINQ – Language Integrated Query
 7. Extension methods – Adding methods to existing types
 8. Nullable types – Handling null values
-9. Async / Await – Asynchronous programming
+9. Async / Await – Asynchronous programming ([Uses, Project](https://github.com/KartikZCoding/csharp-asynchronous-programming))
 10. Multithreading – Parallel execution
 11. Attributes – Metadata for code
 12. Reflection – Inspecting code at runtime
@@ -137,7 +137,7 @@ This repository contains a **.NET console-based membership system** demonstratin
 
 This project strengthens **practical .NET development, layered architecture, and real-world coding practices**.
 
-👉 Repository Link:
+👉 Repository Link:  
 🔗 **[Cycling Club – ClubMembershipApplication](https://github.com/KartikZCoding/csharp-registration-login-console-application)**
 
 ---
