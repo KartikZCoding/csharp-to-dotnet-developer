@@ -106,7 +106,7 @@ This repository focuses on **advanced C# concepts** required for high-performanc
 
 **Topics Covered:**
 1. Generics – Type-safe collections and methods ([Generic Basic to Adv Repo](https://github.com/KartikZCoding/csharp-generics-basics))
-2. Collections (Advanced) – Stack, Queue, HashSet, SortedList
+2. Collections (Advanced) – Stack, Queue, HashSet, SortedList ([C# Collections Repo](https://github.com/KartikZCoding/csharp-collections-uses-examples/blob/a281ce6f1d0ad19e5a60d48a44bda7e81bc8a725/README.md))
 3. Delegates – Method references ([Delegate Repository](https://github.com/KartikZCoding/csharp-delegate-callback-varience-func-action-predecate))
 4. Events – Publisher-subscriber pattern ([Event Handling Repo](https://github.com/KartikZCoding/csharp-event-handling)) | ([Thermostat Console App Repo](https://github.com/KartikZCoding/csharp-thermostatEventsApp)) | ([Observer Design Pattern Repo](https://github.com/KartikZCoding/csharp-observer-design-pattern))
 5. Lambda expressions – Anonymous functions
