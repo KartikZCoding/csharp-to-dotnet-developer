@@ -105,7 +105,7 @@ These topics strengthen **design thinking, scalability, and clean architecture**
 This repository focuses on **advanced C# concepts** required for high-performance and enterprise-level .NET development.
 
 **Topics Covered:**
-1. Generics – Type-safe collections and methods
+1. Generics – Type-safe collections and methods ([Generic Basic to Adv Repo](https://github.com/KartikZCoding/csharp-generics-basics))
 2. Collections (Advanced) – Stack, Queue, HashSet, SortedList
 3. Delegates – Method references ([Delegate Repository](https://github.com/KartikZCoding/csharp-delegate-callback-varience-func-action-predecate))
 4. Events – Publisher-subscriber pattern ([Event Handling Repo](https://github.com/KartikZCoding/csharp-event-handling)) | ([Thermostat Console App Repo](https://github.com/KartikZCoding/csharp-thermostatEventsApp)) | ([Observer Design Pattern Repo](https://github.com/KartikZCoding/csharp-observer-design-pattern))
