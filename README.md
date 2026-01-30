@@ -110,7 +110,7 @@ This repository focuses on **advanced C# concepts** required for high-performanc
 3. Delegates – Method references ([Delegate Repository](https://github.com/KartikZCoding/csharp-delegate-callback-varience-func-action-predecate))
 4. Events – Publisher-subscriber pattern ([Event Handling Repo](https://github.com/KartikZCoding/csharp-event-handling)) | ([Thermostat Console App Repo](https://github.com/KartikZCoding/csharp-thermostatEventsApp)) | ([Observer Design Pattern Repo](https://github.com/KartikZCoding/csharp-observer-design-pattern))
 5. Lambda expressions – Anonymous functions
-6. LINQ – Language Integrated Query
+6. LINQ – Language Integrated Query ([LINQ Basics to Adv Repo](https://github.com/KartikZCoding/csharp-LINQ-basics-to-advance))
 7. Extension methods – Adding methods to existing types
 8. Nullable types – Handling null values
 9. Async / Await – Asynchronous programming ([Uses, Project](https://github.com/KartikZCoding/csharp-asynchronous-programming))
